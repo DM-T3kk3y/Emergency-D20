@@ -11,4 +11,4 @@ You may share and adapt these assets, but must provide attribution and distribut
 
 See: LICENSE-CC-BY-SA for full terms.
 
-© 2025 Tekkey — Emergency D20 Module for Foundry Virtual Tabletop
+© 2025 T3kk3y — Emergency D20 Module for Foundry Virtual Tabletop
