@@ -1,0 +1,22 @@
+{
+  "id": "emergency-d20",
+  "type": "module",
+  "title": "Emergency D20",
+  "description": "Adds a chat card button to spend an Emergency D20 for a reroll on d20 tests.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "13.351"
+  },
+  "authors": [
+    {
+      "name": "Tekkey"
+    }
+  ],
+  "scripts": [
+    "scripts/emergency-d20.js"
+  ],
+  "systems": [
+    "dnd5e"
+  ]
+}
