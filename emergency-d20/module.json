@@ -4,7 +4,7 @@
   "title": "Emergency D20",
   "license": "MIT AND CC-BY-SA-4.0",
   "url": "https://github.com/DM-T3kk3y/Emergency-D20",
-  "manifest": "https://github.com/DM-T3kk3y/Emergency-D20/releases/tag/D%26D-2024-5e",
+  "manifest": "https://github.com/DM-T3kk3y/Emergency-D20/blob/main/emergency-d20/module.json",
   "download": "https://github.com/DM-T3kk3y/Emergency-D20/releases/download/D%26D-2024-5e/Emergency-D20-main.zip",
   "description": "Adds a chat card button to spend an Emergency D20 for a reroll on d20 tests.",
   "version": "1.0.0",
@@ -24,3 +24,4 @@
     "dnd5e"
   ]
 }
+
